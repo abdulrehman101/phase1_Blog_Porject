@@ -1,0 +1,9 @@
+Author - Abdul Latif
+email - latif.abdul@tcs.com
+Project - phase 1 Blog Project
+
+This is a photo blog consisting of 4 pages.
+Adding a blog and contact information does validation.
+You can give title and description and the blog will apear beneath the page.
+
+github link - https://github.com/abdulrehman101/phase1_Blog_Porject
